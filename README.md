@@ -19,3 +19,4 @@ graph TD
 # Reference
 - https://mermaid-js.github.io/mermaid/
 - https://dev.classmethod.jp/articles/mermaid-markdown-is-supported-in-notion/
+- https://github.com/amane-uehara/how-to-use-mermaid
