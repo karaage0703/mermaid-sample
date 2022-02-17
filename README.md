@@ -11,9 +11,18 @@ flowchart LR
 graph TD
     Get-->wild
     wild-->and
-    and-->tough
+    and-->chart
 ```
 
+## Gantt Chart
+
+```mermaid
+gantt
+  Get   :  done,    t1, 2022-02-17, 3d
+  wild. :  active,  t2, after t1,   3d
+  and   :           t3, after t2,   1d
+  chart :                           3d
+```
 
 
 # Reference
